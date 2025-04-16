@@ -1,4 +1,4 @@
-PDF to Audio Converter 📄🔊
+PDF to Audio Book Converter 📄🔊
 This PDF to Audio Converter project allows users to convert text from PDF documents into speech using Python. It provides an efficient way to listen to the contents of a PDF file, making it ideal for learning, accessibility, or multitasking.
 
 📌 Features:
